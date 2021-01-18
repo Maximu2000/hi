@@ -1,0 +1,1 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><block type="pxt-on-start" id="+)?$h8Yh0S~B]0e*Y3z{" x="0" y="0"><statement name="HANDLER"><block type="mixer_play_sound" id="G^)0]RZ0-I-on=|;Zt`e"><field name="sound">music.powerDown</field></block></statement></block></xml>
